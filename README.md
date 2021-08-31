@@ -1,1 +1,2 @@
 # Netflix-Data-Analysis-and-Visualization-Using-Python
+Netflix is one of the most popular digital streaming media service providers today. Netflix provides streaming services for movies and tv shows from various countries in the world. As a digital media with many users, Netflix also has a very large amount of data. In this article, I will perform data analysis using Netflix data. Netflix data analysis will be performed using several python libraries.
